@@ -5,8 +5,7 @@
 *        Created:  3/20/26
 *       Revision:  none
 *       Compiler:  gcc
-*         Author:  qihao.xi (qhxi), xiqh@onecloud.cn
-*        Company:  Onecloud
+*         Author:  qihao.xi (qhxi)
 ===================================================================================== */
 
 #ifndef XRAFT_DEBUG_H
